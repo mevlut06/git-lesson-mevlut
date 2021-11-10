@@ -1,1 +1,2 @@
-print("hello woerld")
+print("hello world")
+print("selamlar")
